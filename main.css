@@ -1,0 +1,26 @@
+html { 
+  padding-top: 30px;
+  text-color: black;
+  text-size: 12px;
+  text-decoration: none;
+}
+#schwabdisclaimer {
+  text-align: left-align;
+
+}
+.container {
+  text-align: left-align;
+  padding-left: 30%;
+  padding-right: 30%;
+}
+.bttn {
+  background-color: white;
+  text-decoration: none;
+  text-align:center;
+  border: 1px solid black;
+}
+a:visited {color:#000000;}
+button:hover {
+  text-align:center;
+  border: 1px solid #707070;
+}
